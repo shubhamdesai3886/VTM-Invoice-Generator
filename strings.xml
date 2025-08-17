@@ -1,0 +1,30 @@
+
+<resources>
+    <string name="app_name">VTM</string>
+    <string name="business_name_en">Vinayak Tarun Mandal Shivapurwadi</string>
+    <string name="business_name_kn">विनायक तरुण मंडळ शिवापुरवाडी</string>
+    <string name="business_name_mr">विनायक तरुण मंडळ शिवापुरवाडी</string>
+
+    <string name="invoice">चलन</string>
+    <string name="invoice_no">चलन क्र.</string>
+    <string name="bill_to">ग्राहक</string>
+    <string name="item">आयटम</string>
+    <string name="qty">प्रमाण</string>
+    <string name="price">किंमत</string>
+    <string name="total">एकूण</string>
+    <string name="grand_total">एकूण रक्कम</string>
+    <string name="generate_pdf">PDF तयार करा</string>
+    <string name="share_pdf">PDF शेअर करा</string>
+    <string name="template">टेम्पलेट</string>
+    <string name="language">भाषा</string>
+    <string name="modern">मॉडर्न</string>
+    <string name="classic">क्लासिक</string>
+    <string name="add_item">आयटम जोडा</string>
+    <string name="delete">काढून टाका</string>
+    <string name="customer_sample">राहुल पाटील</string>
+    <string name="footer_contact">+91 8746832343 | VTM, आगाशी गल्लि, शिवापूरवाडी, बेळगावी - कर्नाटक 591215</string>
+    <string name="signature">स्वाक्षरी</string>
+    <string name="english">इंग्लिश</string>
+    <string name="kannada">कन्नड</string>
+    <string name="marathi">मराठी</string>
+</resources>
